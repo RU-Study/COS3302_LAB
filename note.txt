@@ -1,0 +1,16 @@
+ 1   'gender',            5880 non-null   object 
+ 3   'Partner',           5880 non-null   object 
+ 4   'Dependents',        5880 non-null   object 
+ 6   'PhoneService',      5880 non-null   object 
+ 7   'MultipleLines',     5880 non-null   object 
+ 8   'InternetService',   5880 non-null   object 
+ 9   'OnlineSecurity',    5880 non-null   object 
+ 10  'OnlineBackup',      5880 non-null   object 
+ 11  'DeviceProtection',  5880 non-null   object 
+ 12  'TechSupport',       5880 non-null   object 
+ 13  'StreamingTV',       5880 non-null   object 
+ 14  'StreamingMovies',   5880 non-null   object 
+ 15  'Contract',          5880 non-null   object 
+ 16  'PaperlessBilling',  5880 non-null   object 
+ 17  'PaymentMethod',     5880 non-null   object 
+ 20  'Churn',             5880 non-null   object 
